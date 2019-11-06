@@ -9,6 +9,12 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 
+//Написать программу, которая на основании запроса данных с сайта
+//http://www.cbr.ru/scripts/XML_daily.asp определит самую дорогую и самую дешевую валюту (с
+//максимальной и минимальной стоимостью 1-ой единицы в рублях)
+
+
+
 
 namespace ConvertMoney
 {
