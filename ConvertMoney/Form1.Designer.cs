@@ -90,7 +90,7 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.Window;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(441, 233);
+            this.button1.Location = new System.Drawing.Point(447, 218);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(294, 98);
             this.button1.TabIndex = 5;
@@ -112,7 +112,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Узнать курс валют";           
+            this.Text = "Узнать курс валют";
             this.ResumeLayout(false);
             this.PerformLayout();
 
