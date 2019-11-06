@@ -30,6 +30,7 @@ namespace ConvertMoney
         public Form1()
         {
             InitializeComponent();
+            System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("ru");
             Look();
         }
         public void Look()
